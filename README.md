@@ -1,1 +1,3 @@
 # resume_system
+
+This project is a simple Python-based application that compares a resume with a given job description using basic keyword matching. The system takes both inputs as plain text, cleans and processes the text by converting it to lowercase and removing punctuation, and then extracts important keywords from the job description. It checks how many of those keywords are present in the resume and calculates a basic match percentage. The output displays the match score along with matched and missing keywords. The goal of the project is to demonstrate understanding of text processing, string manipulation, and simple logical comparison without using advanced machine learning or external APIs.
