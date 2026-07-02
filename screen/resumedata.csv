@@ -1,0 +1,121 @@
+ID,Name,Education,Skills,Category
+1,Liam Smith,BTech Computer Science,"Python, Django, PostgreSQL, Docker, AWS",Backend Developer
+2,Noah Johnson,MTech Software Engineering,"Java, Spring Boot, MySQL, Microservices, Kubernetes",Java Developer
+3,Oliver Brown,BCA,"HTML, CSS, JavaScript, React, Tailwind",Frontend Developer
+4,Elijah Garcia,BSc Information Technology,"Python, Pandas, NumPy, Scikit Learn, Power BI",Data Analyst
+5,James Miller,BE Electronics and Communication,"C++, Embedded C Language, Linux, RTOS, TCP/IP",Systems Engineer
+6,William Davis,MCA,"PHP, Laravel, MySQL, JavaScript, Bootstrap",Web Developer
+7,Benjamin Rodriguez,BTech IT,"Swift, SwiftUI, iOS, Firebase, Git",Mobile Developer
+8,Lucas Martinez,MSc Computer Science,"Machine Learning, Deep Learning, TensorFlow, NLP",AI Researcher
+9,Henry Hernandez,BTech Computer Science,"Gin, Redis, PostgreSQL, Google Cloud",Cloud Engineer
+10,Alexander Lopez,BCA,"Kotlin, Android, Flutter, Firebase, SQLite",Android Developer
+11,Mason Gonzalez,MTech IT,"C#, ASP.NET, SQL Server, Azure, Unit Testing",.NET Developer
+12,Michael Wilson,BSc CS,"Ruby, Ruby on Rails, PostgreSQL, Redis, Heroku",Web Developer
+13,Ethan Anderson,BTech Computer Science,"JavaScript, TypeScript, Nodejs, Expressjs, MongoDB",Fullstack Developer
+14,Daniel Taylor,BE Software Engineering,"Rust, WebAssembly, C++, Linux, Shell Scripting",Systems Programmer
+15,Jacob Thomas,MCA,"Scala, Spark, Hadoop, Hive, Big Data",Data Engineer
+16,Logan Moore,BSc IT,"Cybersecurity, Ethical Hacking, Penetration Testing, Network Security",Security Analyst
+17,Jackson Jackson,BTech CS,"Angular, TypeScript, CSS, Bootstrap, Jasmine",Frontend Developer
+18,Levi White,MSc Data Science,"Tableau, Data Analysis, Matplotlib, Seaborn",Data Scientist
+19,Sebastian Harris,BCA,"React Native,JavaScript, Firebase",Mobile Developer
+20,Mateo Martin,BTech IT,"DevOps, Jenkins, Terraform, Kubernetes, GitHub Actions",DevOps Engineer
+21,Aria Thompson,BTech Computer Science,"Python, FastAPI, Redis, Docker, PostgreSQL",Backend Developer
+22,Ezra Scott,BE Electronics,"C Language, C++, OOP, Data Structures, Algorithms",Software Engineer
+23,Mila Nguyen,BCA,"HTML, CSS, Vue, Javascript, Bootstrap",Frontend Developer
+24,Hudson King,BSc Computer Science,"Machine Learning, Pytorch, Scikit Learn, Python",Data Scientist
+25,Layla Wright,IMCA,"Java, Hibernate, Spring Boot, MySQL, Git",Java Developer
+26,Caleb Green,BTech IT,"Javascript, Nodejs, Expressjs, MongoDB, React",Fullstack Developer
+27,Nova Baker,BSc IT,"Cybersecurity, Network Security, DNS, TCP/IP",Security Engineer
+28,Silas Adams,MTech Computer Science,"Deep Learning, NLP, Keras, TensorFlow, Python",AI Engineer
+29,Victoria Hill,BCA,"Dart, Flutter, Firebase, Android, iOS",Mobile Developer
+30,Leo Campbell,BTech CS,"Golang, Microservices, Kubernetes, Google Cloud",Cloud Developer
+31,Hazel Mitchell,BE Software Engineering,"C#, ASP NET, SQL Server, Azure, DevOps",.NET Developer
+32,Theo Roberts,MSc IT,"Data Analysis, Power BI, SQL, Excel, Tableau",Data Analyst
+33,Iris Carter,BTech IT,"React, Nextjs, Tailwind, TypeScript, GraphQL",Frontend Developer
+34,Arlo Phillips,BTech Computer Science,"Python, Flask, SQLite, REST API, Git",Backend Developer
+35,Jade Evans,MCA,"PHP, CodeIgniter, MySQL, HTML, CSS",Web Developer
+36,Zion Turner,BSc CS,"Linux, Bash, Shell Scripting, Docker, AWS",DevOps Engineer
+37,Aurora Diaz,BE Electronics,"MATLAB, Python, Computer Vision, NumPy",Research Engineer
+38,Luca Parker,BTech CS,"Java, Kotlin, Android SDK, Firebase, SQLite",Android Developer
+39,Luna Edwards,MTech Software Engineering,"System Design, Design Patterns, OOP, Unit Testing",Software Architect
+40,Finn Collins,BCA,"Javascript, React Native, Redux, Nodejs",Mobile Developer
+41,Aiden Stewart,BTech Computer Science,"Python, Django, AWS, Terraform, Jenkins",DevOps Engineer
+42,Bella Morris,MSc Computer Science,"Data Science, Scikit Learn, Pandas, Matplotlib",Data Scientist
+43,Carter Murphy,BTech IT,"HTML, CSS, Bootstrap, JavaScript, JQuery",Web Developer
+44,Gianna Cook,MSc.IT,"Swift, SwiftUI, iOS, CoreData, Git",iOS Developer
+45,Isaac Rogers,NLJIET ,"Ethical Hacking, Cryptography, Penetration Testing",Cybersecurity Analyst
+46,Penelope Morgan,BE Computer Science,"C++, Algorithms, Data Structures, Multithreading",Software Engineer
+47,Wyatt Peterson,MTech IT,"Big Data, Spark, Hadoop, Hive, Scala",Data Engineer
+48,Chloe Reed,BCA,"React, Redux, Nodejs, Expressjs, MongoDB",MERN Stack Developer
+49,Owen Bailey,BTech IT,"C#, Unity, OOP, SQL Server, Azure",Game Developer
+50,Nora Cooper,BSc Computer Science,"Python, Selenium, Automation Testing, Jira",QA Engineer
+51,Julian Richardson,BTech CS,"Kubernetes, Docker, Microservices, REST API",Cloud Engineer
+52,Eliana Cox,MSc Data Science,"Machine Learning, Tableau, Data Analysis",Data Analyst
+53,Grayson Howard,BE Electronics,"C Language, Embedded C, TCP/IP, Linux, Shell Scripting",Embedded Engineer
+54,Stella Ward,MCA,"Java, Spring Boot, REST API, Hibernate, MySQL",Backend Developer
+55,Christopher Torres,BTech IT,"Angular, TypeScript, Nodejs, PostgreSQL, Git",Fullstack Developer
+56,Violet Peterson,BCA,"HTML, CSS, Javascript, Tailwind, Nextjs",Frontend Developer
+57,Jaxon Gray,BSc CS,"Machine Learning, Deep Learning, Pytorch, Computer Vision",AI Researcher
+58,Lucy James,MTech Computer Science,"DevOps, GitHub Actions, Azure, Terraform, Ansible",DevOps Engineer
+59,Everett Watson,BTech CS,"Python, FastAPI, MongoDB, Redis, AWS",Backend Developer
+60,Anna Brooks,BE Software Engineering,"C++, Qt, System Design, Design Patterns",Software Engineer
+61,Brooks Kelly,MCA,"PHP, Laravel, Vue, MySQL, Bootstrap",Web Developer
+62,Serenity Sanders,BTech IT,"Swift, iOS, Firebase, Swift UI, Git",Mobile Developer
+63,Asher Price,BSc IT,"Network Security, DNS, HTTP, TCP/IP, Linux",Network Engineer
+64,Adeline Bennett,MSc IT,"Data Science, Python, NLP, Scikit Learn",Data Scientist
+65,Miles Wood,BCA,"React, Nodejs, Expressjs, MongoDB, JavaScript",Fullstack Developer
+66,Emilia Barnes,BTech Computer Science,"Kotlin, Android, SQLite, Material Design",Android Developer
+67,Cameron Ross,MTech Software Engineering,"Java, Microservices, Docker, Kubernetes, AWS",Backend Architect
+68,Madeline Henderson,BE Computer Science,"C#, ASP.NET, SQL Server, Entity Framework",.NET Developer
+69,Dominic Coleman,MCA,"Scala, Spark, Kafka, Hadoop, Python",Data Engineer
+70,Peyton Jenkins,BTech IT,"HTML, CSS, React, GraphQL, Tailwind",Frontend Developer
+71,Josiah Perry,BSc CS,"Python, Flask, PostgreSQL, Redis, Celery",Backend Developer
+72,Everly Powell,MSc Computer Science,"Computer Vision, TensorFlow, OpenCV, Python",AI Engineer
+73,Colton Long,BCA,"Javascript, TypeScript, Angular, Firebase, Adobe Illustrator",Web Developer
+74,Amilia Patterson,BTech Computer Science,"Cybersecurity, Pentesting, Burp Suite, Linux",Security Analyst
+75,Santiago Hughes,BE Electronics,"MATLAB, C Language, C++, DSP, OOP",Firmware Engineer
+76,Aubrey Flores,MCA,"React Native, Javascript, Redux, Firebase",Mobile Developer
+77,Elias Washington,BTech IT,"Python, Pandas, Seaborn, Matplotlib, SQL",Data Analyst
+78,Leilani Butler,BSc IT,"Agile, Scrum, Jira, Software Testing, Selenium",QA Lead
+79,Ezekiel Simmons,MTech Computer Science,"Deep Learning, Reinforcement Learning, Pytorch",AI Specialist
+80,Willow Foster,Bachelor of Computer Application,"HTML, CSS, Bootstrap, Javascript, PHP",Web Developer
+81,Jameson Gonzales,BTech CS,"Java, Spring Boot, Microservices, Oracle",Java Developer
+82,Alice Bryant,BSc Computer Science,"Python, Django, AWS, Docker, Kubernetes",DevOps Engineer
+83,Ian Alexander,BE Software Engineering,"C++, Multithreading, Algorithms, System Design",Systems Engineer
+84,Ruby Russell,Master of Computer Application,"Nodejs, Expressjs, MongoDB, React, Nextjs",Fullstack Developer
+85,Hunter Griffin,BTech IT,"Swift, SwiftUI, iOS, Core Animation",iOS Developer
+86,Kennedy Hayes,MSc Data Science,"Machine Learning, Python, Power BI, SQL",Data Scientist
+87,Axel Myers,BCA,"Dart, Flutter, Android, iOS, Firebase",Mobile Developer
+88,Quinn Ford,BTech Computer Science," Redis, PostgreSQL, Google Cloud, Docker",Backend Developer
+89,Roman Hamilton,BE Electronics,"C Language, C++, RTOS, Linux, Shell Scripting",Embedded Developer
+90,Genesis Graham,MCA,"Java, Kotlin, Android SDK, SQLite, Git",Android Developer
+91,Bentley Sullivan,BSc CS,"HTML, CSS, Javascript, Nodejs",Web Developer
+92,Adalyn Wallace,MTech Software Engineering,"Agile, Scrum, System Design, OOP, C#",Project Manager
+93,Kayden Woods,BTech IT,"Python, Scikit Learn, NLP, TensorFlow",AI Engineer
+94,Neverly Cole,BCA,"React, Redux, Tailwind, TypeScript, Git",Frontend Developer
+95,Braxton West,BSc IT,"Network Security, Cybersecurity, Ethical Hacking",Security Consultant
+96,Kinsley Jordan,BE Computer Science,"Java, Spring, Hibernate, MySQL, Docker",Backend Developer
+97,Ryker Owens,MCA,"Python, Pandas, NumPy, Power BI, Tableau",Data Analyst
+98,Madelyn Reynolds,BTech CS,"Ruby, Ruby on Rails, PostgreSQL, Redis",Web Developer
+99,August Fisher,MSc.IT,"Cloud Computing, AWS, Azure, Terraform, Bash",Cloud Architect
+100,Ariana Ellis,BCA,"JavaScript, Nodejs, MongoDB, HTML, CSS",Fullstack Developer
+101,Emma Johnson,Bachelor of Fine Arts,"Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Branding, Typography",Graphic Designer
+102,Noah Williams,BSc Graphic Design,"Figma, UI/UX Design, Wireframing, Prototyping, Canva",UI Designer
+103,Olivia Brown,Diploma in Graphic Design,"Photoshop, Illustrator, Logo Design, Social Media Design",Graphic Designer
+104,Liam Martinez,BFA Visual Communication,"Adobe Illustrator, Figma, User Research, Wireframing, Prototyping",UX Designer
+105,Ava Davis,Bachelor of Design,"Canva, Branding, Poster Design, Brochure Design, Layout Design",Visual Designer
+106,Elijah Wilson,BSc Multimedia,"After Effects, Premiere Pro, Motion Graphics, Video Editing",Motion Designer
+107,Sophia Taylor,MFA Graphic Arts,"Typography, Branding, Adobe Illustrator, Packaging Design",Senior Graphic Designer
+108,James Anderson,Bachelor of Fine Arts,"Photoshop, Lightroom, Photo Editing, Retouching",Photo Editor
+109,Isabella Thomas,BSc Animation,"Illustrator, Character Design, Storyboarding, Sketching",Illustration Artist
+110,Benjamin Jackson,Diploma in Multimedia,"Figma, UI Design, Web Design, HTML, CSS",UI Designer
+111,Mia White,Bachelor’s Degree in Graphic Design,"Adobe Photoshop, Adobe XD, Mobile App Design, Wireframing",UI/UX Designer
+112,Lucas Harris,BSc Visual Arts,"CorelDRAW, Logo Design, Print Media Design",Print Designer
+113,Charlotte Martin,BFA Graphic Design,"Adobe InDesign, Layout Design, Magazine Design, Brochure Design",Publication Designer
+114,Henry Thompson,Diploma in Graphic Arts,"Canva, Social Media Marketing Design, Banner Design",Social Media Designer
+115,Amelia Garcia,BSc Graphic Communication,"Branding, Identity Design, Typography, Adobe Illustrator",Brand Designer
+116,Alexander Clark,Bachelor of Fine Arts,"Motion Graphics, After Effects, Visual Effects, Animation",Motion Graphic Artist
+117,Evelyn Rodriguez,Bachelor of Design,"UI/UX Design, Figma, Prototyping, User Testing",UX Designer
+118,Daniel Lewis,BSc Multimedia,"Photoshop, Packaging Design, Label Design",Packaging Designer
+119,Harper Lee,Diploma in Visual Communication,"Poster Design, Banner Design, Social Media Graphics",Graphic Designer
+120,Michael Walker,MFA Design,"Creative Direction, Branding, Adobe Illustrator Adobe Suite, Team Collaboration",Art Director
